@@ -1,0 +1,10 @@
+C:\Users\Maryo\Desktop\Rockie to Rockstar - Solution\bin\Debug\netcoreapp2.0\Rockie to Rockstar - Solution.deps.json
+C:\Users\Maryo\Desktop\Rockie to Rockstar - Solution\bin\Debug\netcoreapp2.0\Rockie to Rockstar - Solution.runtimeconfig.json
+C:\Users\Maryo\Desktop\Rockie to Rockstar - Solution\bin\Debug\netcoreapp2.0\Rockie to Rockstar - Solution.runtimeconfig.dev.json
+C:\Users\Maryo\Desktop\Rockie to Rockstar - Solution\bin\Debug\netcoreapp2.0\Rockie to Rockstar - Solution.dll
+C:\Users\Maryo\Desktop\Rockie to Rockstar - Solution\bin\Debug\netcoreapp2.0\Rockie to Rockstar - Solution.pdb
+C:\Users\Maryo\Desktop\Rockie to Rockstar - Solution\obj\Debug\netcoreapp2.0\Rockie to Rockstar - Solution.csproj.CoreCompileInputs.cache
+C:\Users\Maryo\Desktop\Rockie to Rockstar - Solution\obj\Debug\netcoreapp2.0\Rockie to Rockstar - Solution.AssemblyInfoInputs.cache
+C:\Users\Maryo\Desktop\Rockie to Rockstar - Solution\obj\Debug\netcoreapp2.0\Rockie to Rockstar - Solution.AssemblyInfo.cs
+C:\Users\Maryo\Desktop\Rockie to Rockstar - Solution\obj\Debug\netcoreapp2.0\Rockie to Rockstar - Solution.dll
+C:\Users\Maryo\Desktop\Rockie to Rockstar - Solution\obj\Debug\netcoreapp2.0\Rockie to Rockstar - Solution.pdb
