@@ -7,7 +7,10 @@ namespace Rockie_to_Rockstar___Solution
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-
+            
+            Console.WriteLine();
+            Console.WriteLine("N = {0}", n);
+            
             // Here is half the height of the logo. It is used in the cycles below.
             int halfHeight = (n + 1) / 2;
 
